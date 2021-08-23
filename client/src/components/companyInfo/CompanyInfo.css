@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css2?family=Rampart+One&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Lobster&display=swap");
+
+.info {
+  margin-top: 19px;
+  border-radius: 5px;
+  color: brown;
+  font-size: 25px;  
+}
+
+.info h1 {
+  font-family: "Rampart One", cursive;
+}
+
+.info p {
+  font-family: "Lobster", cursive;
+  color: cornflowerblue;
+}
+
